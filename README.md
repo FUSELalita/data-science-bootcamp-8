@@ -17,4 +17,6 @@ I learn a lot of stuff related to data science skill. This bootcamp has 10 sprin
 - Essential Python for Data Aanlyst
 - Dashboard
 
+You can find me on LinkedIn www.linkedin.com/in/ลลิตา-อภิสรพาณิชย์-06a31326b
+
 ### heading3 ... 6
